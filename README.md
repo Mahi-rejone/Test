@@ -5,4 +5,3 @@ test 3
 vvh
 ghjg
 fix1
-fix2
